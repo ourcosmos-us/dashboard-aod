@@ -1,6 +1,6 @@
 # OURCOSMOS.US 
     
-## proposed structural
+## proposed structure
 src/
 index.js
 Store/
