@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: proxima-nova-extra-condensed,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: -webkit-linear-gradient(-333deg,#030303 10%,#717171 360%);
+}
+.bold-font{
+  font-family: proxima-nova-extra-condensed, sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+.light-font {
+  font-family: proxima-nova-extra-condensed, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
